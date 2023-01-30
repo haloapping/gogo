@@ -1,0 +1,3 @@
+- [Dasar Pemrograman Golang by Noval Agung, dkk](https://dasarpemrogramangolang.novalagung.com/)
+- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+- [Awesome Go](https://awesome-go.com/)
