@@ -1,3 +1,4 @@
+- [A Tour of Go](https://go.dev/tour/welcome/1)
 - [Dasar Pemrograman Golang by Noval Agung, dkk](https://dasarpemrogramangolang.novalagung.com/)
-- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+- [An Introduction to Programming in Go by Caleb Doxsey](https://www.golang-book.com/books/intro)
 - [Awesome Go](https://awesome-go.com/)
