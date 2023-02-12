@@ -2,3 +2,4 @@
 - [Dasar Pemrograman Golang by Noval Agung, dkk](https://dasarpemrogramangolang.novalagung.com/)
 - [An Introduction to Programming in Go by Caleb Doxsey](https://www.golang-book.com/books/intro)
 - [Awesome Go](https://awesome-go.com/)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
