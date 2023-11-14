@@ -3,3 +3,4 @@
 - [An Introduction to Programming in Go by Caleb Doxsey](https://www.golang-book.com/books/intro)
 - [Awesome Go](https://awesome-go.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [ZetCode](https://zetcode.com/all/#go)
