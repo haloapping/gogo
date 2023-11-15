@@ -5,3 +5,4 @@
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [ZetCode](https://zetcode.com/all/#go)
 - [Go by Example](https://gobyexample.com/)
+- [Golang By Example](https://golangbyexample.com/)
