@@ -7,3 +7,4 @@
 - [Go by Example](https://gobyexample.com/)
 - [Golang By Example](https://golangbyexample.com/)
 - [exercism.org](https://exercism.org/tracks/go)
+- [golang50shad](https://golang50shad.es/)
